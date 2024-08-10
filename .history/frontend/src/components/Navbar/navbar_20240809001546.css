@@ -1,0 +1,10 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+.navbar>* {
+    text-decoration: none;
+    margin-left:
+}
